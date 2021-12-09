@@ -10,6 +10,9 @@
      <?php
    }
  ?>
+
+<!-- % html body %
+ -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -50,7 +53,8 @@
      <header> 
       <main>
         <section>
-     <div class="header">
+      <!-- this is header class -->
+      <div class="header">
       <a href="index.php" class="logo">HairCraft</a>
         <a href="index.php">Home</a>
         <a href="index.php">Contact</a>
